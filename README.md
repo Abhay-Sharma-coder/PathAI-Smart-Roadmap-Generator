@@ -29,7 +29,7 @@
 
 ## 💡 Learnings & Hackathon Experience
 
-Built as part of the **CTAE Hackathon**, this project challenged me to integrate complex AI APIs into a user-friendly web interface. It improved my understanding of prompt engineering, asynchronous JavaScript, and state management for tracking user progress.
+This project challenged me to integrate complex AI APIs into a user-friendly web interface. It improved my understanding of prompt engineering, asynchronous JavaScript, and state management for tracking user progress.
 
 ---
 *Built with ❤️ by [Abhay Kumar Sharma](https://github.com/Abhay-Sharma-coder)*
