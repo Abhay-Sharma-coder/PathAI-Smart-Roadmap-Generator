@@ -1,5 +1,8 @@
 # 🚀 PathAI Pro - Advanced Learning Management System 
 
+![Live Demo](https://img.shields.io/badge/Live_Demo-Available-success?style=for-the-badge&logo=vercel)
+![Status](https://img.shields.io/badge/Status-Completed-blue?style=for-the-badge)
+
 **PathAI Pro** is an intelligent, AI-driven learning platform designed to help students and professionals create customized learning paths. Instead of wandering through endless tutorials, users can generate a smart, step-by-step roadmap tailored to their specific goals. 
 
 🔗 **[View Live Project Here](https://pathaiagent.ccbp.tech/)**
