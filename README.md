@@ -5,7 +5,7 @@
 
 **PathAI Pro** is an intelligent, AI-driven learning platform designed to help students and professionals create customized learning paths. Instead of wandering through endless tutorials, users can generate a smart, step-by-step roadmap tailored to their specific goals. 
 
-🔗 **[View Live Project Here](https://pathaiagent.ccbp.tech/)**
+🔗 **[View Live Project Here](https://pathagent.ccbp.tech/)**
 
 ## ✨ Key Features
 
